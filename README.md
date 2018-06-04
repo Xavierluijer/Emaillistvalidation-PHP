@@ -4,7 +4,7 @@ The verification API allows email addresses to be validated in your existing app
 
 This API created for verify one email address per one api request, for example if you need to verify three emails - you need to request api three times. It's very simple to check "[email]", see in "one_by_one.php" example code
 
-============================================================================================================== For information about status response please visit the page https://app.emaillistvalidation.com/pages/apiOneByOne
+============================================================================================================== For information about status response please visit the page http://www.emaillistvalidation.com/documentation/
 
 also for bulk verification you can use "bulk_email_verification.php" example code
 
@@ -18,4 +18,4 @@ your software checking status of file by {file_id} (once per 10 minutes for exam
 
 when status of file is "finished", your software downloading reports
 
-============================================================================================================== For more information please visit the page https://app.emaillistvalidation.com/pages/apiBulkEmails
+============================================================================================================== For more information please visit the page http://www.emaillistvalidation.com/documentation/
